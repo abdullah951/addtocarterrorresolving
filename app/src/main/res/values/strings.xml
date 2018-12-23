@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Knock</string>
+
+    <string name="notification_channel_id">default</string>
+    <string name="country_code">+92</string>
+    <string name="hint_enter_phone_number">03XXXXXXXXX</string>
+    <string name="phone_no_confirm">Confirm</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="order">Order</string>
+    <string name="dairy">Dairy</string>
+    <string name="you">You</string>
+    <string name="meat">Meat</string>
+    <string name="cart">Cart</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_scrolling_detail">ScrollingActivityDetail</string>
+    <string name="add_to_cart"><font size="25">+ </font><font size="14"><b>ADD TO CART</b></font></string>
+    <string name="delivery_message">Just %d Rs for free delivery</string>
+    <string name="price">%d RS</string>
+    <string name="priceMain">Rs.%d</string>
+    <string name="free_delivery_message">Enjoy Free Delivery !</string>
+    <string name="free_delivery">Free</string>
+    <string name="laundry">Laundry</string>
+</resources>
